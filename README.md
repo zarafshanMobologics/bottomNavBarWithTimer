@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 ## problem 
 
-In this project i have resolve the problem For Example
+In this project i have resolved the problem For Example
 
 * I want when user come at first time and open the application bottom Navigation bar show only 2 bars  after spending 5 days the bottom navigation bar show 3 bars without refreshing the page.It show immediately on the page.
 
